@@ -1,0 +1,1 @@
+02 July 2020 08:28:07 PMMXM_SERIAL:  C version  Compute matrix product C = A * B.  The matrix order N                 = 500  C(100,100)  = 1MXM_SERIAL:  Normal end of execution.02 July 2020 08:28:07 PM
