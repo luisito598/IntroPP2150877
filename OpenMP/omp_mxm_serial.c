@@ -60,7 +60,7 @@ int main ( void )
   /*
    * Yo investifue como se paralelizaba un for
    * o como se optimizaba y entonces encontre que se usaba el
-   * schedule en forma dinamica y se le pasaba como parametros en 
+   * schedule en forma dinamica (https://www.dartmouth.edu/~rc/classes/intro_openmp/schedule_loops.html) y se le pasaba como parametros en 
    * private para que solo tomara los de estos cilcos for 
    * y no ninguna otra variable por fuera de este dominio 
    * sus indices , i, j y la variable angle , para que permitiera
